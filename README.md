@@ -33,7 +33,7 @@ Badges: [Credly](https://www.credly.com/users/bruno-sowa)
 ![CCNA Switching Routing and Wireless Essentials](https://img.shields.io/badge/CCNA%20Switching%20Routing%20and%20Wireless%20Essentials-006D8C?style=flat&logo=cisco&logoColor=white)  
 ![SLE201](https://img.shields.io/badge/SLE201-4B92DB?style=flat&logo=suse&logoColor=white)
 
-
-
+## Contact
+For collaboration or internship 👀 offers, contact me through mail under profile
 
 Pozdro✌️
