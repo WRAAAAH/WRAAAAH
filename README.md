@@ -23,7 +23,6 @@ Some of the technologies I worked with (to the possible extent):
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net)
 
 ## Certifications
-Badges: [![Credly](https://img.shields.io/badge/Credly-0077C8?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/bruno-sowa)
 
 [![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals)
 [![Introduction to Cybersecurity - Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-003B5C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/cybersecurity/intro-cybersecurity)
