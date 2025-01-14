@@ -11,4 +11,4 @@ Below are some of the technologies I worked with(to possible extent):
 [![Technology 2](path/to/tech2.png)](https://link-to-tech2.com)
 
 ## Certifications
-Some certs: [Credly]((https://www.credly.com/users/bruno-sowa)).
+Some certs: [Credly](https://www.credly.com/users/bruno-sowa).
