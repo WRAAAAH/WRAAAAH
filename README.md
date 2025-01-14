@@ -18,7 +18,7 @@ Some of the technologies I worked with(to possible extent):
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![SUSE](https://img.shields.io/badge/SUSE-3E9E3E?style=flat&logo=suse&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
@@ -27,3 +27,11 @@ Some of the technologies I worked with(to possible extent):
 ## Certifications
 Badges: [Credly](https://www.credly.com/users/bruno-sowa)
 
+![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![Introduction to Cybersecurity - Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-003B5C?style=flat&logo=cisco&logoColor=white)  
+![CCNA Introduction to Networks](https://img.shields.io/badge/CCNA%20Intro%20to%20Networks-006D8C?style=flat&logo=cisco&logoColor=white)  
+![CCNA Switching Routing and Wireless Essentials](https://img.shields.io/badge/CCNA%20Switching%20Routing%20and%20Wireless%20Essentials-006D8C?style=flat&logo=cisco&logoColor=white)  
+![SLE201](https://img.shields.io/badge/SLE201-4B92DB?style=flat&logo=suse&logoColor=white)
+
+
+Pozdro
