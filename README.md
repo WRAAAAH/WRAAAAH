@@ -1,4 +1,3 @@
-## Hello there! 
 <img src="Howdy.png" alt="Howdy">
 
 ## About Me
