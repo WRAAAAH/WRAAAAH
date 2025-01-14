@@ -31,6 +31,6 @@ Some of the technologies I worked with (to the possible extent):
 [![SLE201](https://img.shields.io/badge/SLE201-4B92DB?style=flat&logo=suse&logoColor=white)]([https://www.suse.com/certification/sle-201](https://www.suse.com/training/course/sle201v15/))
   
 
-For collaboration or internship 👀 offers, contact me through mail under profile
+For collaboration or internship 👀 offers, contact me through mail
 
 Pozdro✌️
