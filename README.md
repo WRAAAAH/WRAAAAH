@@ -1,4 +1,5 @@
-##Hello there! <br>
+## Hello there! 
+<br>
 <img src="Howdy.png" alt="Howdy">
 ## About Me
 I am a 4th-year technical student. My goal is to grow as a professional in IT. Maybe earn some money.
