@@ -30,7 +30,7 @@ Some of the technologies I worked with (to the possible extent):
 [![CCNA Switching Routing and Wireless Essentials](https://img.shields.io/badge/CCNA%20Switching%20Routing%20and%20Wireless%20Essentials-006D8C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/networking/ccna-switching-routing-wireless-essentials)
 [![SLE201](https://img.shields.io/badge/SLE201-4B92DB?style=flat&logo=suse&logoColor=white)](https://www.suse.com/certification/sle-201)
   
-## Contact
+
 For collaboration or internship 👀 offers, contact me through mail under profile
 
 Pozdro✌️
