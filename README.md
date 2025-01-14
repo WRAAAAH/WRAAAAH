@@ -1,16 +1,27 @@
-## Hi there 👋
+# Your Name
 
-<!--
-**WRAAAAH/WRAAAAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 👋
 
-Here are some ideas to get you started:
+## About Me
+I am a 4th-year technical student passionate about [your interests, e.g., software development, data science, etc.]. My goal is to create impactful solutions and grow as a professional in the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Technologies
+Below are some of the technologies I work with:
+<!-- Add technology icons or images using Markdown -->
+- ![Technology 1](path/to/tech1.png)
+- ![Technology 2](path/to/tech2.png)
+
+## Projects
+Here are some of my GitHub repositories:
+<!-- Add project links here -->
+<!-- Example:
+- [Project 1](https://github.com/yourusername/project1): Description of the project.
+- [Project 2](https://github.com/yourusername/project2): Description of the project.
 -->
+
+## Certifications
+Check out my certifications on [Credly](https://www.credly.com/users/your-profile).
+
+---
+
+© 2025 Your Name
