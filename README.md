@@ -1,4 +1,4 @@
-Hello there! <img src="https://path-to-tech1-image.png](https://www.smileysapp.com/emojis/howdy.png)" alt="Technology 1" width="50" height="50">
+Hello there! <img src="https://www.smileysapp.com/emojis/howdy.png" alt="Technology 1" width="50" height="50">
 
 ## About Me
 I am a 4th-year technical student passionate about [your interests, e.g., software development, data science, etc.]. My goal is to create impactful solutions and grow as a professional in the tech industry.
