@@ -1,6 +1,4 @@
-# Your Name
-
-Welcome to my GitHub profile! 👋
+##Welcome (https://www.smileysapp.com/emojis/howdy.png)
 
 ## About Me
 I am a 4th-year technical student passionate about [your interests, e.g., software development, data science, etc.]. My goal is to create impactful solutions and grow as a professional in the tech industry.
