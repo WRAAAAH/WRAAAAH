@@ -32,4 +32,5 @@ Some of the technologies I worked with (to the possible extent):
   
 
 For collaboration or internship 👀 offers, contact me through mail
+
 Pozdro✌️
