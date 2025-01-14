@@ -1,5 +1,4 @@
 <img src="Howdy.png" alt="Howdy">
-
 ## About Me
 I am a 4th-year technical student. My goal is to grow as a professional in IT. Maybe earn some money.
 Currently I'm expanding my knowledge in every area. Cybersecurity, cloud, 
