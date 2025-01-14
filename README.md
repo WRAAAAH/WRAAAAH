@@ -34,4 +34,6 @@ Badges: [Credly](https://www.credly.com/users/bruno-sowa)
 ![SLE201](https://img.shields.io/badge/SLE201-4B92DB?style=flat&logo=suse&logoColor=white)
 
 
-Pozdro
+
+
+Pozdro✌️
