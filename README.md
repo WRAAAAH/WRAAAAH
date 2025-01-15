@@ -28,7 +28,7 @@ Some of the technologies I worked with (to the possible extent):
 [![Introduction to Cybersecurity - Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-003B5C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/introduction-to-cybersecurity)
 [![CCNA Introduction to Networks](https://img.shields.io/badge/CCNA%20Intro%20to%20Networks-006D8C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/networking/ccna-introduction-networks)
 [![CCNA Switching Routing and Wireless Essentials](https://img.shields.io/badge/CCNA%20Switching%20Routing%20and%20Wireless%20Essentials-006D8C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/networking/ccna-switching-routing-wireless-essentials)
-[![SLE201](https://img.shields.io/badge/SLE201-4B92DB?style=flat&logo=suse&logoColor=white)(https://www.suse.com/training/course/sle201v15/))
+[![SLE201](https://img.shields.io/badge/SLE201-4B92DB?style=flat&logo=suse&logoColor=white)](https://www.suse.com/training/course/sle201v15/)
   
 
 For collaboration or internship 👀 offers, contact me through mail
