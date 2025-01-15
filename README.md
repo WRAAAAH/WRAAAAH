@@ -2,7 +2,7 @@
 
 ## Me
 I am a 4th-year technical student. My goal is to grow as a professional in IT. Maybe earn some money.
-Currently I'm expanding my knowledge in cybersecurity, cloud, network automation. Currently working on a learning platform as its co-founder.
+Currently I'm expanding my knowledge in cybersecurity, cloud, network automation. Currently working on creation of a learning platform as its co-founder.
 
 ## Technologies
 Some of the technologies I worked with (to the possible extent):
