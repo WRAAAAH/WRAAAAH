@@ -1,10 +1,10 @@
 <img src="Howdy.png" alt="Howdy">
 
 ## Me
-I'm a 4th-year technical student passionate about IT and constantly learning new things. I'm expanding my skills in cybersecurity, cloud computing, and network automation while co-founding a learning platform aimed at transforming IT education. Who knows—maybe I'll even earn some money along the way!
+I'm a 4th-year technical student passionate about IT and constantly learning new things. I'm expanding my skills in cybersecurity, cloud computing, and network automation while co-founding a learning platform aimed at transforming IT education. Who knows—maybe I'll even earn some money along the way! 😉
 
 ## Learning Platform Project 🌟
-I'm co-founding a web-based learning platform designed to deliver interactive courses, hands-on labs, and a vibrant community for tech enthusiasts. Stay tuned for updates as we work to revolutionize IT education!
+I'm co-founding a web-based learning platform designed to deliver interactive courses, hands-on labs, and a vibrant community for tech enthusiasts. Stay tuned for updates as we work to revolutionize IT education! 🚀
 
 ## Technologies
 Some of the technologies I’ve worked with (to the possible extent):
