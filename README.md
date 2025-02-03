@@ -7,24 +7,24 @@ I am a 4th-year technical student. My goal is to grow as a professional in IT.
 I'm co-founding a web-based learning platform designed to deliver interactive courses, quizzes, and—most importantly—automatic VM provisioning. Not everyone knows how to set up virtual machines or has access to high-performance hardware for virtualization. Our platform will make advanced virtualization accessible to everyone.
 
 ### Technologies Used in the Project
-<!-- Using inline SVG logos for a diversified look -->
+<!-- Using inline SVG logos with updated size and styling to remove blue artifacts -->
 <a href="https://www.djangoproject.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="50" style="margin: 0 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="80" style="margin: 0 5px; vertical-align: middle; background-color: transparent; border: none;">
 </a>
 <a href="https://www.python.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" style="margin: 0 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="80" style="margin: 0 5px; vertical-align: middle; background-color: transparent; border: none;">
 </a>
 <a href="https://aws.amazon.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" style="margin: 0 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="80" style="margin: 0 5px; vertical-align: middle; background-color: transparent; border: none;">
 </a>
 <a href="https://www.postgresql.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" style="margin: 0 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="80" style="margin: 0 5px; vertical-align: middle; background-color: transparent; border: none;">
 </a>
 <a href="https://www.terraform.io">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Terraform-logo.svg" alt="Terraform" width="50" style="margin: 0 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Terraform-logo.svg" alt="Terraform" width="80" style="margin: 0 5px; vertical-align: middle; background-color: transparent; border: none;">
 </a>
 <a href="https://git-scm.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50" style="margin: 0 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="80" style="margin: 0 5px; vertical-align: middle; background-color: transparent; border: none;">
 </a>
 
 ## Technologies
@@ -40,13 +40,13 @@ I am enthusiastic about modern development practices and excited to begin integr
 
 **Tools & Platforms I'm Currently Exploring:**  
 <a href="https://jenkins.io">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Jenkins_logo.svg" alt="Jenkins" width="50" style="margin: 0 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Jenkins_logo.svg" alt="Jenkins" width="80" style="margin: 0 5px; vertical-align: middle; background-color: transparent; border: none;">
 </a>
 <a href="https://about.gitlab.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/GitLab_Logo.svg" alt="GitLab CI" width="50" style="margin: 0 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/GitLab_Logo.svg" alt="GitLab CI" width="80" style="margin: 0 5px; vertical-align: middle; background-color: transparent; border: none;">
 </a>
 <a href="https://www.terraform.io">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Terraform-logo.svg" alt="Terraform" width="50" style="margin: 0 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Terraform-logo.svg" alt="Terraform" width="80" style="margin: 0 5px; vertical-align: middle; background-color: transparent; border: none;">
 </a>
 
 ## Certifications
