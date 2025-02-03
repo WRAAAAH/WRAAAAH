@@ -52,15 +52,9 @@
 </ul>
 <h3 style="color: #ff5722;">Tools & Platforms I'm Currently Exploring:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://jenkins.io">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" alt="Jenkins" width="80" style="display: block; margin: 0 5px; vertical-align: middle; background: transparent; border: none; clip-path: inset(0);">
-  </a>
-  <a href="https://about.gitlab.com/">
     <img src="https://w7.pngwing.com/pngs/881/310/png-transparent-gitlab-original-wordmark-logo-icon.png" alt="GitLab CI" width="80" style="display: block; margin: 0 5px; vertical-align: middle; background: transparent; border: none; clip-path: inset(0);">
-  </a>
-  <a href="https://www.terraform.io">
     <img src="https://szkoladevnet.pl/wp-content/uploads/2020/05/og-image-8b3e4f7d.png" alt="Terraform" width="80" style="display: block; margin: 0 5px; vertical-align: middle; background: transparent; border: none; clip-path: inset(0);">
-  </a>
 </div>
 
 <hr>
