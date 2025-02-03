@@ -12,24 +12,12 @@
 
 <h3 style="color: #ff5722;">Technologies Used in the Project</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://www.djangoproject.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="80" style="display: block; margin: 0 5px; vertical-align: middle; background: transparent; border: none; clip-path: inset(0);">
-  </a>
-  <a href="https://www.python.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="80" style="display: block; margin: 0 5px; vertical-align: middle; background: transparent; border: none; clip-path: inset(0);">
-  </a>
-  <a href="https://aws.amazon.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="80" style="display: block; margin: 0 5px; vertical-align: middle; background: transparent; border: none; clip-path: inset(0);">
-  </a>
-  <a href="https://www.postgresql.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="80" style="display: block; margin: 0 5px; vertical-align: middle; background: transparent; border: none; clip-path: inset(0);">
-  </a>
-  <a href="https://www.terraform.io">
     <img src="https://szkoladevnet.pl/wp-content/uploads/2020/05/og-image-8b3e4f7d.png" alt="Terraform" width="80" style="display: block; margin: 0 5px; vertical-align: middle; background: transparent; border: none; clip-path: inset(0);">
-  </a>
-  <a href="https://git-scm.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="80" style="display: block; margin: 0 5px; vertical-align: middle; background: transparent; border: none; clip-path: inset(0);">
-  </a>
 </div>
 
 <hr>
