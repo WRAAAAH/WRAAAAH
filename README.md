@@ -4,7 +4,7 @@
 I am a 4th-year technical student. My goal is to grow as a professional in IT.
 
 ## Project 
-I'm co-founding a web-based learning platform designed to deliver interactive courses, quizzes, and—most importantly—automatic VM provisioning. Not everyone knows how to set up virtual machines or has access to high-performance hardware for virtualization. Our platform will make advanced virtualization accessible to everyone.
+I'm co-founding a web-based learning platform designed to deliver interactive courses, quizzes, andmost importantly automatic VM provisioning. Not everyone knows how to set up virtual machines or has access to high-performance hardware for virtualization. Our platform will make advanced virtualization accessible to everyone.
 
 ### Technologies Used in the Project
 <!-- Using inline SVG logos with updated size and styling to remove blue artifacts -->
