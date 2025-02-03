@@ -1,10 +1,10 @@
 <img src="Howdy.png" alt="Howdy">
 
 ## Me
-I'm a 4th-year technical student passionate about IT and constantly learning new things. I'm expanding my skills in cybersecurity, cloud computing, and network automation while co-founding a learning platform aimed at transforming IT education. Who knows—maybe I'll even earn some money along the way! 😉
+I am a 4th-year technical student. My goal is to grow as a professional in IT.
 
-## Learning Platform Project 🌟
-I'm co-founding a web-based learning platform designed to deliver interactive courses, hands-on labs, and a vibrant community for tech enthusiasts. Stay tuned for updates as we work to revolutionize IT education! 🚀
+## Learning Platform Project 
+I'm co-founding a web-based learning platform designed to deliver courses, quizes and most importantly automatic VM provisioning. Not everybody knows how, wants or has powerful hardware for handling operations or virtualizing. Now it won't be a problem.
 
 ## Technologies
 Some of the technologies I’ve worked with (to the possible extent):
@@ -18,9 +18,7 @@ I'm eager to dive deeper into modern development practices and streamline workfl
 - **Terraform** for efficient infrastructure automation
 
 **Tools & Platforms:**  
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)
-
-[![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/) [![Terraform](https://img.shields.io/badge/Terraform-7B42B6?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io) [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io)[![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/) [![Terraform](https://img.shields.io/badge/Terraform-7B42B6?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io) [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com)
 
 ## Certifications
 [![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals) [![Introduction to Cybersecurity - Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-003B5C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/introduction-to-cybersecurity) [![CCNA Introduction to Networks](https://img.shields.io/badge/CCNA%20Intro%20to%20Networks-006D8C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/networking/ccna-introduction-networks) [![CCNA Switching Routing and Wireless Essentials](https://img.shields.io/badge/CCNA%20Switching%20Routing%20and%20Wireless%20Essentials-006D8C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/networking/ccna-switching-routing-wireless-essentials) [![SLE201](https://img.shields.io/badge/SLE201-4B92DB?style=flat&logo=suse&logoColor=white)](https://www.suse.com/training/course/sle201v15/)
