@@ -36,7 +36,7 @@
 
 <h2 style="color: #ff5722; border-bottom: 2px solid #ff5722; padding-bottom: 4px;">Technologies</h2>
 <p>Some of the technologies I’ve worked with (to the possible extent):</p>
-<p>
+
   [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
   [![Terraform](https://img.shields.io/badge/Terraform-7B42B6?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
@@ -52,7 +52,6 @@
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
   [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net)
   [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
-</p>
 
 <hr>
 
@@ -79,13 +78,13 @@
 <hr>
 
 <h2 style="color: #ff5722; border-bottom: 2px solid #ff5722; padding-bottom: 4px;">Certifications</h2>
-<p>
+
   [![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals)
   [![Introduction to Cybersecurity - Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-003B5C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/introduction-to-cybersecurity)
   [![CCNA Introduction to Networks](https://img.shields.io/badge/CCNA%20Intro%20to%20Networks-006D8C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/networking/ccna-introduction-networks)
   [![CCNA Switching Routing and Wireless Essentials](https://img.shields.io/badge/CCNA%20Switching%20Routing%20and%20Wireless%20Essentials-006D8C?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/networking/ccna-switching-routing-wireless-essentials)
   [![SLE201](https://img.shields.io/badge/SLE201-4B92DB?style=flat&logo=suse&logoColor=white)](https://www.suse.com/training/course/sle201v15/)
-</p>
+
 
 <p>For collaboration or internship 👀 offers, contact me through mail.</p>
 <p>Pozdro✌️.</p>
